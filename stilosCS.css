@@ -3,13 +3,13 @@
   }
   #generarCodigo{
     width: 10%;
-    background-color: #5AA1E3;
-    color: #fff;
+    background-color: #be2222;
+    color: rgb(24, 224, 41);
   }
   #descargarCodigo{
     width: 10%;
     background-color: #3CB371;
-    color: #fff;
+    color: rgb(40, 38, 122);
     display: none;
     text-align: center;
     border: #eee solid 2px;
